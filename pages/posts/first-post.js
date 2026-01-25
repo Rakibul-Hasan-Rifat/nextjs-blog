@@ -13,12 +13,6 @@ export default function FirstPost() {
             <h2>
                 <Link href="/">← Back to home</Link>
             </h2>
-            <Image
-                src="/images/profile.jpg"
-                alt="Profile Picture"
-                width={"400"}
-                height={"400"}
-            />
         </Layout>
     );
 }
